@@ -22,6 +22,3 @@ before_install:
 
 licenses:
   - 'android-sdk-license-.+'
-
-script:
-  - ./gradlew check jacocoTestReport
